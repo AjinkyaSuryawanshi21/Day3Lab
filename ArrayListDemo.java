@@ -13,7 +13,7 @@ public class ArrayListDemo {
         //AutoBoxing
         list.add(28);
         list.add(40.5);
-        list.add("Hi");
+        list.add("Hey there");
 
         //Adding elements using Student Class Constructor
         list.add(new Student(101, "Ajinkya", 90));
